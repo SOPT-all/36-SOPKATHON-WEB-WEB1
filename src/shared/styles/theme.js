@@ -198,7 +198,7 @@ const theme = {
     gray8: '#868D95',
     gray9: '#787F87',
     gray10: '#111111',
-    gray11: '#111111',
+    gray11: '#484D54',
     white: '#ffffff',
     black: '#000000',
     potato_orange: '#EF684A',
